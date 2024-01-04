@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../Downloads/sigmoid.vhd" \
+"../../../../../Downloads/sigmoid_tb.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Admin/sigmoid/sigmoid.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/Admin/sigmoid/sigmoid.srcs/sources_1/new/Weight_Memory.v,1704348378,verilog,,C:/Users/Admin/sigmoid/sigmoid.srcs/sources_1/new/relu.v,C:/Users/Admin/sigmoid/sigmoid.srcs/sources_1/new/include.v,Weight_Memory,,,,,,,,
+C:/Users/Admin/sigmoid/sigmoid.srcs/sources_1/new/include.v,1704348270,verilog,,,,,,,,,,,,
+C:/Users/Admin/sigmoid/sigmoid.srcs/sources_1/new/neuron.v,1704348270,verilog,,,C:/Users/Admin/sigmoid/sigmoid.srcs/sources_1/new/include.v,neuron,,,,,,,,
+C:/Users/Admin/sigmoid/sigmoid.srcs/sources_1/new/relu.v,1704347518,verilog,,C:/Users/Admin/sigmoid/sigmoid.srcs/sources_1/new/sigmoid.v,,ReLU,,,,,,,,
+C:/Users/Admin/sigmoid/sigmoid.srcs/sources_1/new/sigmoid.v,1704348270,verilog,,C:/Users/Admin/sigmoid/sigmoid.srcs/sources_1/new/neuron.v,,Sig_ROM,,,,,,,,
